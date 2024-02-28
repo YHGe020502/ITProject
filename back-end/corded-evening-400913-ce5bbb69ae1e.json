@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "corded-evening-400913",
+  "private_key_id": "ce5bbb69ae1e051a9618ca08eab06ea2153ca628",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCm1iGMF6Ds18Xl\nalfJbbp+HMr78q6jQefKVJl0OuXpu2tfAgP40ogj5yW7dxOtL8+mxQx25y07QzE5\n7bGxzVF2l2MCOSKcTbo8I+LdyozwKu4EwNPG9KllgWAYr+aLwFXJMB3N+GqITK3j\nteut8HT+h3OfOYsnDZCqK0Wg/puNVNjFo9/lVqGTIKwWqK4uztjmOr/tdOH6PD3w\nfEcjcBWYrcqxHI6LrogNFFUGkjjZWnP2kGcm0tlSSgIsxuXbXSDTtB8riM2bo+11\nApDJAT+DIBGpS8RAxnXpNTt3I3cvsqtA1u2Ynncee6jdK3+YJadTxKuML7XJkShL\nux+rdQqRAgMBAAECggEAApMwflyI/87Ov502EKZQaAzityPGPT/Rp4ZJvgkArmxV\nmmhKDmeVcVRqeSu70oL35f+JkzY7NPxzAI1iHjfoh3eLsCeYmKf8dVwqbrjnFvfa\np5kgS6RQDwCBrq/cU5Da4hmLhDfO0R652lde9VbOP3Vwu+bj9mzXrECxuOvlE7fS\npYB/iz8FgEAr8tbynq0cBxEFhkykDhfImI8zHldmwpzSYiSLEff8d5oRhSKO5Dyz\nM1pxRtVq8YR0rOWChuU1E6QeOyg78DKy0Gyhnf6czriSL66Vp59p79nq08Nc/Cjt\n8NS9cYmVlvpFGP1LFv/hGcJEmkGcSF/cz5wNA8rByQKBgQDQOqszlUNH9dvCro4D\nbjYSiKt2BDBeCwILhRmvVmbre8HieCunKKav+eUkXW+DtFHNZf7ku4GCQM2m7SvI\nliBMKPgrxXXVCDVPZ7JpKkYioRPVbwiXNk94NLVl2KdSdPXuKupaM5tJFu+SfooQ\nNxJOUFtiLW7wL+PSwzmUduhBbQKBgQDNHHYRO8/W0yIwJG3RMMivCWUgUsOaZnkr\nHp/LrII9+hnYCJ6Yi+Pr65Ea1+/02TXXxvJIhLQ6W+tp9wyEjhFu1jddPzvSH5vq\n1WTlyPBPy86BQclazC/7/i9u8hUzJlJqYtFMlfpqgI87YbH+DCv/o0VBpQ7XETmg\nEzvppb0bNQKBgQCaf41bXppnICKIVl+EaBeytLkTfZQtktlXltAx6le+zTpUQHmT\nM3RKCY5c5v7Ap+AyGEWBjSZQcKil/D+KOumH2LYaNA5zm/2CBxy3LuiO9Rj0OcgT\n+fYI6ILXKGMtqR54Mltjxfqnxl7HQSBLW7E3biP/ulof2Eifrr5gS8GUGQKBgA7/\nXcK01OWoWn+aqkz5fDMQRMywQI0xoPp+KsEBxCQz/V/GgZI16Fx/xQRpdao5l65H\nZb/XtDXwMq502f13Rd8M2s9+qCkdFpF9OPt0Td4H0Pmyjb6N35RVabJ7EQHEc5JD\n13n6HW1cKRz2b8VbrnvqvE2ofAVNxSDnRyI2dDVhAoGBALDsR8PTmbagSc2JWYyF\niRH75UFEdzusg2XpnVcwkjJx4LTzI5uQr+lrDZQp5PWELLB50uYbnWNdAO2d97M9\nq0+zm4E7tfggUOoUCSSfEpfa/5GkBSyh/SyQo8z2dXQguQibe9+lLacHzMEIdd2L\niRpZrO0NGYlnnVMHotFztpzs\n-----END PRIVATE KEY-----\n",
+  "client_email": "cdsquad@corded-evening-400913.iam.gserviceaccount.com",
+  "client_id": "103909717156177002151",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cdsquad%40corded-evening-400913.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
